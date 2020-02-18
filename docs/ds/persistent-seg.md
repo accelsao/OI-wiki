@@ -110,6 +110,9 @@ int main() {
 }
 ```
 
+## 习题
+[Codeforces 813E Army Creation](https://codeforces.com/problemset/problem/813/E)
+
 ## 参考
 
  <https://en.wikipedia.org/wiki/Persistent_data_structure> 
